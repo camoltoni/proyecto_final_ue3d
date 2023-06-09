@@ -4,7 +4,7 @@
 # UNIVERSIDAD NACIONAL DEL LITORAL<br>Facultad de Ingeniería y Ciencias Hídricas
 
 ### Tecnicatura en Diseño y Programación de Videojuegos
-### Programación de Videojuegos III (2022)
+### Unreal 3D (2022)
 
 ## HIGH CONCEPT DOCUMENT
 </div>
@@ -13,23 +13,21 @@
 César Moltoni
 
 #### Nombre del juego
-Las travesuras de Max
+Rayos y centellas
 
 #### Descripción de una línea
-Devolver las cosas que Max el gato trajo “prestadas” a la casa de Luis
+Sortear obstáculos y recoger items sin tocar el piso electrificado.
 
 #### Resumen ejecutivo
-Max es un gato muy travieso que trajo muchas cosas de distintos lugares en sus aventuras nocturnas. Ahora Luis debe devolverlas a sus lugares originales sin que nadie lo descubra.
+La central nuclear se ha inundado y hay que repararla antes de la catástrofe, recoge los elementos necesarios para cumplir la tarea sin tocar el piso.
 
 #### Premisa
-El personaje debe actuar con sigilo para volver a los lugares de donde su gato sustrajo cosas para colocarlas nuevamente en su lugar sin ser descubierto por los guardias, que son muy rápidos y desconfiados. A la menor señal de alerta investigan hasta sacarse cualquier duda.
+El jugador debe moverse entre plataformas saltando para evitar tocar el piso. Para pasar los distintos niveles tiene que recoger los distintos items y utilizarlos en el lugar indicado para reparar los distintos daños de la planta nuclear.
 
 #### Puntos clave
-- Una temática infantil que evita la violencia y apunta a la diversión
-- Actuar con sigilo e inteligencia para evitar ser descubierto.
-- Guardias con inteligencia artificial que reaccionan a las acciones del personaje.
-- Niveles con dificultad creciente para lograr una experiencia de usuario agradable.
-- Dificultad parametrizada para adaptarse a la habilidad del jugador. Guardias que se puede configurar su rapidez, radio de visión y escucha.
+- Plataformas para saltar de un punto a otro del mapa.
+- Suelo electrificado que no se puede pisar.
+- Items que recoger para realizar las reparaciones.
 
 #### Gameplay
 El movimiento será mediante point and click alineado a una grilla. El personaje deberá evitar ser visto o escuchado por los guardias. Habrá lugares donde ocultarse. También puede obtener botas con distintas habilidades: silenciosas, súper velocidad, anti gravedad y señuelos.
