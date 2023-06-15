@@ -13,30 +13,27 @@
 César Moltoni
 
 #### Nombre del juego
-Rayos y centellas
+No te derritas
 
 #### Descripción de una línea
-Sortear obstáculos y recoger items sin tocar el piso electrificado.
+Sortear obstáculos y recoger items sin tocar el piso que es lava.
 
 #### Resumen ejecutivo
-La central nuclear se ha inundado y hay que repararla antes de la catástrofe, recoge los elementos necesarios para cumplir la tarea sin tocar el piso.
+La central nuclear entró en fusión y hay que escapar antes que sea tarde.
 
 #### Premisa
-El jugador debe moverse entre plataformas saltando para evitar tocar el piso. Para pasar los distintos niveles tiene que recoger los distintos items y utilizarlos en el lugar indicado para reparar los distintos daños de la planta nuclear.
+El jugador debe moverse entre plataformas saltando para evitar tocar el piso. Para pasar los distintos niveles tiene que recoger los distintos items y utilizarlos en el lugar indicado para poder escapar y ser evacuado.
 
 #### Puntos clave
 - Plataformas para saltar de un punto a otro del mapa.
-- Suelo electrificado que no se puede pisar.
-- Items que recoger para realizar las reparaciones.
+- Suelo de lava que no se puede pisar.
+- Items que recoger para poder escapar.
+- Exploración y solución de problemas.
 
 #### Gameplay
-El movimiento será mediante point and click alineado a una grilla. El personaje deberá evitar ser visto o escuchado por los guardias. Habrá lugares donde ocultarse. También puede obtener botas con distintas habilidades: silenciosas, súper velocidad, anti gravedad y señuelos.
+El tipo de juego .
 
 #### Público objetivo
 Dedicado al público infantil entre 4 y 12 años. También apunta a jugadores mayores que disfruten ver de lindas mascotas.
 
-#### Forma de distribución/monetización
-Por tratarse de un proyecto con un tiempo limitado de desarrollo la plataforma elegida es itch.io. Por qué el sitio concentra una gran cantidad de proyectos independientes y es el lugar de referencia a la hora de buscar este tipo de juegos. La monetización puede hacerse mediante donaciones en el momento de jugar el juego como HTML5.
 
-#### Tecnología elegida
-Es la provista por la cátedra de Programación de Videojuegos III, Godot Engine 3.4 es ideal por su versatilidad y tiene una gran ventaja, disponer de plantillas para poder exportar fácilmente a HTML5 y facilitar el proceso de alojamiento del juego en la plataforma de distribución elegida.
