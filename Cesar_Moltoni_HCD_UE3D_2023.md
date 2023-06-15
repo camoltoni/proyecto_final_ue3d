@@ -36,6 +36,7 @@ Se usará el personaje Iris que viene incluido en el proyecto de juego en tercer
 El piso es lava por lo cual no puede ser pisado. Si lo hace se reinicia el juego.
 
 #### Gameplay
+
 <style>
 * {
   box-sizing: border-box;
@@ -53,6 +54,7 @@ img.clear {
   height: auto;
 }
 </style>
+
 <p class="clear">
 <image src="https://media.githubusercontent.com/media/camoltoni/proyecto_final_ue3d/new-level/Screenshots/LinuxEditor/ScreenShot00000.png" class="clear" />
 El juego tiene un componente de exploración por lo que el jugador puede comenzar con distintos recorridos. Puede tomar por el pasillo de la izquierda que lleva a la escalera de emergencia hacia el techo.
